@@ -4,7 +4,10 @@ public class FlipCapitalisationOf2DArray
 {
     public static void main(String[] args)
     {
-        String[][] words = {{"My", "Name", "IS", "JERIN", "George", "maTHEw"},{"this", "is", "A", "SIMPLE", "javA", "cODe"}};
+        String[][] words = {
+            {"My", "Name", "IS", "JERIN", "George", "maTHEw"},
+            {"this", "is", "A", "SIMPLE", "javA", "cODe"}
+        };
         char c;
         String word;
         StringBuilder newWord;
