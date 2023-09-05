@@ -1,1 +1,1 @@
-# Sample-Java-codes-Part-2
+Few more simple Java codes like Flip Capitalisation of 2D String array, Find missing number in an array, Determine sum of two integers is equal to given value, Reverse word in sentence, How many ways can you make change with coins and a total amount, Find all subsets of a given set of integers, Find low/high index
